@@ -1,0 +1,6 @@
+name: JoinMessage
+version: 1.0.0
+main: com.joinmessage.JoinMessage
+api-version: 1.16
+author: Noseds
+description: Custom join and quit messages with config
